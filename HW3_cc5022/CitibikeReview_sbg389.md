@@ -34,7 +34,7 @@ http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf
 
 The formula for the t-test cosiders the difference between the two groups means and divides it by a meassure of variability of the scores: (http://www.socialresearchmethods.net/kb/stat_t.php)
 
-The numerator in this case will be the the average time for women minus the average time for men
+The numerator in this case will be the the average trip time for women minus the average trip time for men
 
 The denominator is what is called the "standard error of the difference", which is the square root of the sum of the variances of each group over the size of the groups
 
