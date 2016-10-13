@@ -36,8 +36,8 @@ Practice python plots and fitting linear model. Special thanks to Yao Wang's hel
 
 4. Null hypothesis:
 
-    The averge IQ of children of pregnant women at age 1,2,3 and 4 is above average.
+    The averge IQ of children of women who were smoking when they were pregnant with the children at age 1,2,3 and 4 is the same.
     
 	Formula:
 	
-    IQ at 1,2,3 abd 4 >= IQ_ave at 1,2,3 and 4
+    Smoking mons' Children's IQ at 1,2,3 and 4 = Children's average IQ at 1,2,3 and 4
