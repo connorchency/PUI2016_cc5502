@@ -11,32 +11,32 @@ Practice python plots and fitting linear model. Special thanks to Yao Wang's hel
 
 ##Assignment 3
 
-1. null hypothesis:
-    test group lose less average percentage body fat after three month diets than control group after three month     exercise.
+1. Null hypothesis:
+    The test group loses less average percentage body fat after three month diets than that of control group after three month exercise.
 	
 	Formula:
 	
-    Fat_ave_test <= Fat_ave_control
+    Mean(Fat_test) <= Mean(Fat_control)
 
-2. null hypothesis:
+2. Null hypothesis:
 
-    percentage of people answering yes is more than that of people with no answsers in the poll.
+    The percentage of people answering yes is more than that of people with no answsers in the poll.
     
 	Formula:
 	
     P_yes >= P_no
 
-3. null hypothesis:
+3. Null hypothesis:
 
-    average cessation rates using nicotine patch is smaller than that with placebo patch.
+    The average cessation rates using nicotine patch is smaller than that with placebo patch.
     
 	Formula:
 	
     r_nico_ave <= r_place_ave
 
-4. null hypothesis:
+4. Null hypothesis:
 
-    averge IQ of children of pregnant women at age 1,2,3 and 4 is above average.
+    The averge IQ of children of pregnant women at age 1,2,3 and 4 is above average.
     
 	Formula:
 	
