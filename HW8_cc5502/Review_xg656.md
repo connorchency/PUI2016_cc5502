@@ -1,6 +1,6 @@
 Reviewer: Chongyang Chen, cc5502, connorchency
 </br>
-Plot Author:
+Plot Author: Xianbo Gao, xg656, gaogxb
 </br>
 
 Plot:
@@ -17,4 +17,4 @@ It is a beautiful graph. The color looks good to me. The plot clearly communicat
 
 **HONESTY:** *is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?*
 
-It is reproducing the data. 
+It is reproducing the data.
